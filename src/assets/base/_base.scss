@@ -1,0 +1,12 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: $m-size;
+}
+
+.is-active {
+  color: red;
+}
